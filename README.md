@@ -1,0 +1,1 @@
+Library management system pet project for discovering object oriented approach on django and python
